@@ -2,6 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c3240996-667c-4333-9468-d211076f0d16" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../.idea/vhr.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../README.md" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../hrserver/src/main/java/org/sang/bean/Hr.java" beforeDir="false" afterPath="$PROJECT_DIR$/../hrserver/src/main/java/org/sang/bean/Hr.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../hrserver/src/main/java/org/sang/bean/JobLevel.java" beforeDir="false" afterPath="$PROJECT_DIR$/../hrserver/src/main/java/org/sang/bean/JobLevel.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../hrserver/src/main/java/org/sang/config/UrlAccessDecisionManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/../hrserver/src/main/java/org/sang/config/UrlAccessDecisionManager.java" afterDir="false" />
@@ -12,6 +16,12 @@
       <change beforePath="$PROJECT_DIR$/../hrserver/src/main/resources/static/static/fonts/fontawesome-webfont.674f50d.eot" beforeDir="false" afterPath="$PROJECT_DIR$/../hrserver/src/main/resources/static/static/fonts/fontawesome-webfont.674f50d.eot" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../hrserver/src/main/resources/static/static/fonts/fontawesome-webfont.af7ae50.woff2" beforeDir="false" afterPath="$PROJECT_DIR$/../hrserver/src/main/resources/static/static/fonts/fontawesome-webfont.af7ae50.woff2" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../hrserver/src/main/resources/static/static/fonts/fontawesome-webfont.fee66e7.woff" beforeDir="false" afterPath="$PROJECT_DIR$/../hrserver/src/main/resources/static/static/fonts/fontawesome-webfont.fee66e7.woff" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/user/UserList.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/user/UserList.vue" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -28,13 +38,21 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="C:\Users\Hxx\Desktop\wrs\wrs\vhr\vuehr\.idea" />
+      </set>
+    </option>
   </component>
   <component name="ProjectId" id="1Tb1ULznfWtsWF7B3niFEwrhW2V" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/src/store" />
     <property name="nodejs_package_manager_path" value="npm" />
@@ -104,7 +122,7 @@
       <workItem from="1575089291070" duration="25509000" />
       <workItem from="1575159627696" duration="879000" />
       <workItem from="1575164407881" duration="1798000" />
-      <workItem from="1575245496313" duration="4821000" />
+      <workItem from="1575245496313" duration="11247000" />
     </task>
     <servers />
   </component>
