@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c3240996-667c-4333-9468-d211076f0d16" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../hrserver/src/main/java/org/sang/bean/Hr.java" beforeDir="false" afterPath="$PROJECT_DIR$/../hrserver/src/main/java/org/sang/bean/Hr.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hrserver/src/main/java/org/sang/bean/JobLevel.java" beforeDir="false" afterPath="$PROJECT_DIR$/../hrserver/src/main/java/org/sang/bean/JobLevel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hrserver/src/main/java/org/sang/config/UrlAccessDecisionManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/../hrserver/src/main/java/org/sang/config/UrlAccessDecisionManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hrserver/src/main/java/org/sang/config/WebSecurityConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/../hrserver/src/main/java/org/sang/config/WebSecurityConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hrserver/src/main/java/org/sang/controller/ChatController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../hrserver/src/main/java/org/sang/controller/ChatController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hrserver/src/main/java/org/sang/controller/RegLoginController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../hrserver/src/main/java/org/sang/controller/RegLoginController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hrserver/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../hrserver/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hrserver/src/main/resources/static/static/fonts/fontawesome-webfont.674f50d.eot" beforeDir="false" afterPath="$PROJECT_DIR$/../hrserver/src/main/resources/static/static/fonts/fontawesome-webfont.674f50d.eot" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hrserver/src/main/resources/static/static/fonts/fontawesome-webfont.af7ae50.woff2" beforeDir="false" afterPath="$PROJECT_DIR$/../hrserver/src/main/resources/static/static/fonts/fontawesome-webfont.af7ae50.woff2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hrserver/src/main/resources/static/static/fonts/fontawesome-webfont.fee66e7.woff" beforeDir="false" afterPath="$PROJECT_DIR$/../hrserver/src/main/resources/static/static/fonts/fontawesome-webfont.fee66e7.woff" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Vue Single File Component" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1Tb1ULznfWtsWF7B3niFEwrhW2V" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/store" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="ts.external.directory.path" value="C:\Program Files\JetBrains\WebStorm 2019.2.4\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Hxx\Desktop\wrs\wrs\vhr\vuehr\src\store" />
+      <recent name="C:\Users\Hxx\Desktop\wrs\wrs\vhr\vuehr\src\components\chat" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Hxx\Desktop\wrs\wrs\vhr\vuehr\src\components" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="dev" type="js.build_tools.npm" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="dev" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c3240996-667c-4333-9468-d211076f0d16" name="Default Changelist" comment="" />
+      <created>1573713996201</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1573713996201</updated>
+      <workItem from="1573713998442" duration="8612000" />
+      <workItem from="1573781094858" duration="4054000" />
+      <workItem from="1574037088018" duration="7893000" />
+      <workItem from="1574123935966" duration="5328000" />
+      <workItem from="1574142065927" duration="4931000" />
+      <workItem from="1574209409784" duration="2805000" />
+      <workItem from="1574304894280" duration="78000" />
+      <workItem from="1574429807361" duration="1032000" />
+      <workItem from="1574488700387" duration="32000" />
+      <workItem from="1574663422378" duration="4168000" />
+      <workItem from="1574727169125" duration="27000" />
+      <workItem from="1574817954660" duration="730000" />
+      <workItem from="1574818865935" duration="144000" />
+      <workItem from="1574819757365" duration="2600000" />
+      <workItem from="1574826465342" duration="9009000" />
+      <workItem from="1574899797479" duration="27591000" />
+      <workItem from="1574986084471" duration="26505000" />
+      <workItem from="1575089291070" duration="25509000" />
+      <workItem from="1575159627696" duration="879000" />
+      <workItem from="1575164407881" duration="1798000" />
+      <workItem from="1575245496313" duration="4821000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
